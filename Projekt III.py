@@ -1,4 +1,4 @@
-#1 Numeryczne rozwiązanie równania, porównanie metod)
+#1 Numeryczne rozwiązanie równania, porównanie metod
 import numpy as np
 import matplotlib.pyplot as plt
 
