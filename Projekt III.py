@@ -169,8 +169,7 @@ plt.show()
 '''Na wykresie znajdują się krzywe fazowe dla różnych warunków początkowych oraz wektory kierunkowe, 
 które ilustrują zmiany w liczebności populacji w kierunku gradientu funkcji. 
 Portret fazowy ukazuje ewolucję systemu w czasie i daje informacje na temat stabilności, 
-zbieżności do punktów równowagi 
-oraz ogólnej dynamiki modelu współzawodnictwa gatunków. 
+zbieżności do punktów równowagi oraz ogólnej dynamiki modelu współzawodnictwa gatunków. 
 W tym przypadku krzywe fazowe zbiegają się do punktu, 
 co może oznaczać, w długotrwałej perspektywie, że system dąży do ustalonego stanu równowagi, 
 w którym proporcje między populacjami są stałe.'''
